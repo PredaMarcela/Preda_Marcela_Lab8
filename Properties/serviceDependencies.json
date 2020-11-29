@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Preda_Marcela_Lab8Context"
+    }
+  }
+}
